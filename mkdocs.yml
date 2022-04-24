@@ -116,3 +116,4 @@ markdown_extensions:
 nav:
   - Home: home.md
   - About: index.md
+  - Useful Stuff: useful-stuff.md
