@@ -23,4 +23,12 @@
 
 [Stackoverflow](https://stackoverflow.com/questions/17333531/how-can-i-display-the-current-branch-and-folder-path-in-terminal)
 
-##
+## Set Default Python Path
+
+1. `vi ~/.bash_profile`
+2. Add `python="/usr/local/bin/python3"` to file.
+3. `source ~/.bash_profile`
+
+[CSDN](https://blog.csdn.net/JohnJim0/article/details/104482136)
+
+## 

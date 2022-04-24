@@ -3,16 +3,18 @@ site_url: https://brovlofski.github.io/errrrrik/
 site_author: Erik Yao
 site_description: >-
   My personal site.
+
 # Repository
 repo_name: brovlofski/errrrrik
 repo_url: https://github.com/brovlofski/errrrrik
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Erik Yao
+copyright: Copyright &copy; 2022 Erik Yao
 
 # Configuration
 theme:
   name: material
+
 
   # Static files
   static_templates:
@@ -28,7 +30,7 @@ theme:
     - content.code.annotate
     # - content.tabs.link
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.indexes
     # - navigation.instant
     - navigation.sections
@@ -42,15 +44,15 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    - scheme: slate
+      primary: amber
+      accent: grey
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-    - scheme: slate
-      primary: red
-      accent: red
+    - scheme: default
+      primary: indigo
+      accent: brown
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
@@ -115,5 +117,4 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: home.md
-  - About: index.md
-  - Useful Stuff: useful-stuff.md
+  - Tool Box: useful-stuff.md
