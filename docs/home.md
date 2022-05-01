@@ -19,4 +19,4 @@
 ---
 ### __MkDocs__
 
-[MkDocs Material](https://squidfunk.github.io/mkdocs-material/creating-your-site/){ .md-button } [MkDocs](https://www.mkdocs.org/getting-started/){ .md-button }  [:fontawesome-brands-github: GitHub Repo](https://github.com/brovlofski/errrrrik){ .md-button }
+[MkDocs Material](https://squidfunk.github.io/mkdocs-material/creating-your-site/){ .md-button } [MkDocs](https://www.mkdocs.org/getting-started/){ .md-button }  [:fontawesome-brands-github: GitHub Repo](https://github.com/brovlofski/errrrrik){ .md-button } [:fontawesome-brands-github: GitHub Repo](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins){ .md-button }
