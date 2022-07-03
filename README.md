@@ -1,2 +1,2 @@
 # errrrrik
-Just a guy.
+[GitPages](https://brovlofski.github.io/errrrrik/)
