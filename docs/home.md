@@ -1,7 +1,7 @@
 
 ### __NETWORK__
 
-[SoCloud](https://socloud.me/user){ .md-button .md-button--primary }  [:material-router-wireless: OpenWRT](http://192.168.1.1/cgi-bin/luci/admin/koolsoft#/soft-center.asp){ .md-button .md-button--primary }
+[SoCloud](https://socloud.me/user){ .md-button .md-button--primary }  [:material-router-wireless: OpenWRT](http://192.168.1.2/cgi-bin/luci/admin/koolsoft#/soft-center.asp){ .md-button .md-button--primary }
 
 ---
 ### __MUSIC__
